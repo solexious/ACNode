@@ -4024,6 +4024,11 @@ Standard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LE
 <wire x1="165.1" y1="116.84" x2="190.5" y2="116.84" width="0.1524" layer="94"/>
 <wire x1="200.66" y1="93.98" x2="165.1" y2="93.98" width="0.1524" layer="94"/>
 <wire x1="101.6" y1="177.8" x2="165.1" y2="177.8" width="0.1524" layer="94"/>
+<text x="10.16" y="35.56" size="2.54" layer="94">ETHERNET</text>
+<text x="200.66" y="93.98" size="2.54" layer="94">MCU</text>
+<text x="101.6" y="142.24" size="2.54" layer="94">5V REG</text>
+<text x="114.3" y="73.66" size="2.54" layer="94">EEPROM</text>
+<text x="165.1" y="93.98" size="2.54" layer="94">SL030 CONNECTION</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
